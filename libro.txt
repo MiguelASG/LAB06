@@ -1,8 +1,8 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
 
-AUTORES: Miguel
-	 Cesar
+AUTORES: Miguel Armando
+	 Cesar David
 
 
 
